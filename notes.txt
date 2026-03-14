@@ -1,2 +1,2 @@
-Git Version Control Lab Notes
-Initial project setup
+Bug Fix Applied
+Corrected documentation
