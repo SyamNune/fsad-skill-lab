@@ -1,0 +1,30 @@
+.container{
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+input{
+  margin: 5px;
+  padding: 5px;
+}
+
+button{
+  margin: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+table{
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+th, td{
+  border: 1px solid black;
+  padding: 8px;
+}
+
+th{
+  background-color: lightgray;
+}
